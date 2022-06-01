@@ -35,7 +35,7 @@ python atm.py
 
 Upon launching the ATM you will be greeted with the following prompts.
 
-![Clothes PIcker CLI](Images/cli.png)
+![ATM CLI](screenshot.png)
 
 ---
 
